@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PesanActivity">
+
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/amaranth"
+        android:layout_marginTop="20dp"
+        android:text="Menu"
+        android:textSize="32sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.05" />
+
+    <ImageView
+        android:id="@+id/back_icon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="30dp"
+        app:srcCompat="@drawable/back_icon"
+        android:onClick="onBackButtonClk"
+        app:layout_constraintTop_toTopOf="@id/judul"
+        app:layout_constraintBottom_toBottomOf="@id/judul"
+        app:layout_constraintStart_toStartOf="parent"
+        />
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/judul" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/menu_container_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:padding="10dp"
+        android:background="@drawable/rounded_border_white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/line">
+
+        <TextView
+            android:id="@+id/namamenu1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Paket A"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintTop_toTopOf="@+id/menu1"
+            app:layout_constraintStart_toEndOf="@+id/menu1" />
+
+        <ImageView
+            android:id="@+id/menu1"
+            android:layout_width="129dp"
+            android:layout_height="106dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/panas1" />
+
+        <TextView
+            android:id="@+id/deskipsi1"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Nasi + ayam + minuman"
+            app:layout_constraintBottom_toBottomOf="@+id/menu1"
+            app:layout_constraintStart_toEndOf="@+id/menu1"
+            app:layout_constraintTop_toBottomOf="@+id/namamenu1" />
+
+        <TextView
+            android:id="@+id/qty1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="0"
+            app:layout_constraintEnd_toEndOf="@+id/harga1"
+            app:layout_constraintHorizontal_bias="0.511"
+            app:layout_constraintStart_toStartOf="@+id/harga1"
+            app:layout_constraintTop_toBottomOf="@+id/harga1" />
+
+        <TextView
+            android:id="@+id/harga1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="140dp"
+            android:layout_marginBottom="20dp"
+            android:text="Rp 39,000"
+            app:layout_constraintBottom_toBottomOf="@+id/menu1"
+            app:layout_constraintStart_toEndOf="@+id/menu1"
+            app:layout_constraintTop_toTopOf="@+id/menu1" />
+
+        <ImageView
+            android:id="@+id/min1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:onClick="onMin1Clk"
+            app:layout_constraintBottom_toBottomOf="@+id/qty1"
+            app:layout_constraintEnd_toStartOf="@+id/qty1"
+            app:layout_constraintTop_toTopOf="@+id/qty1"
+            app:srcCompat="@drawable/ic_round_remove_circle_outline_24" />
+
+        <ImageButton
+            android:id="@+id/plus1"
+            android:layout_width="23dp"
+            android:layout_height="24dp"
+            android:layout_marginStart="10dp"
+            android:onClick="onPlus1Clk"
+            app:layout_constraintBottom_toBottomOf="@+id/qty1"
+            app:layout_constraintStart_toEndOf="@+id/qty1"
+            app:layout_constraintTop_toTopOf="@+id/qty1"
+            app:srcCompat="@drawable/ic_baseline_add_circle_outline_24" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/menu_container_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:padding="10dp"
+        android:background="@drawable/rounded_border_white"
+        app:layout_constraintStart_toStartOf="@id/menu_container_1"
+        app:layout_constraintEnd_toEndOf="@id/menu_container_1"
+        app:layout_constraintTop_toBottomOf="@id/menu_container_1">
+
+        <ImageView
+            android:id="@+id/menu2"
+            android:layout_width="130dp"
+            android:layout_height="106dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/panas2" />
+
+        <TextView
+            android:id="@+id/namamenu2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Paket B"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintTop_toTopOf="@+id/menu2"
+            app:layout_constraintStart_toEndOf="@+id/menu2" />
+
+        <TextView
+            android:id="@+id/deskipsi2"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Nasi + ayam + minuman"
+            app:layout_constraintBottom_toBottomOf="@+id/menu2"
+            app:layout_constraintStart_toEndOf="@+id/menu2"
+            app:layout_constraintTop_toBottomOf="@+id/namamenu2" />
+
+        <TextView
+            android:id="@+id/qty2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="0"
+            app:layout_constraintEnd_toEndOf="@+id/harga2"
+            app:layout_constraintHorizontal_bias="0.511"
+            app:layout_constraintStart_toStartOf="@+id/harga2"
+            app:layout_constraintTop_toBottomOf="@+id/harga2" />
+
+        <TextView
+            android:id="@+id/harga2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="140dp"
+            android:layout_marginBottom="20dp"
+            android:text="Rp 46,000"
+            app:layout_constraintBottom_toBottomOf="@+id/menu2"
+            app:layout_constraintStart_toEndOf="@+id/menu2"
+            app:layout_constraintTop_toTopOf="@+id/menu2" />
+
+        <ImageView
+            android:id="@+id/min2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:onClick="onMin2Clk"
+            app:layout_constraintBottom_toBottomOf="@+id/qty2"
+            app:layout_constraintEnd_toStartOf="@+id/qty2"
+            app:layout_constraintTop_toTopOf="@+id/qty2"
+            app:srcCompat="@drawable/ic_round_remove_circle_outline_24" />
+
+        <ImageButton
+            android:id="@+id/plus2"
+            android:layout_width="23dp"
+            android:layout_height="24dp"
+            android:layout_marginStart="10dp"
+            android:onClick="onPlus2Clk"
+            app:layout_constraintBottom_toBottomOf="@+id/qty2"
+            app:layout_constraintStart_toEndOf="@+id/qty2"
+            app:layout_constraintTop_toTopOf="@+id/qty2"
+            app:srcCompat="@drawable/ic_baseline_add_circle_outline_24" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/menu_container_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:padding="10dp"
+        android:background="@drawable/rounded_border_white"
+        app:layout_constraintStart_toStartOf="@id/menu_container_2"
+        app:layout_constraintEnd_toEndOf="@id/menu_container_2"
+        app:layout_constraintTop_toBottomOf="@id/menu_container_2">
+
+        <ImageView
+            android:id="@+id/menu3"
+            android:layout_width="132dp"
+            android:layout_height="106dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/panasspesial" />
+
+        <TextView
+            android:id="@+id/namamenu3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:textSize="16sp"
+            android:text="Paket C"
+            android:textStyle="bold"
+            app:layout_constraintTop_toTopOf="@+id/menu3"
+            app:layout_constraintStart_toEndOf="@+id/menu3" />
+
+        <TextView
+            android:id="@+id/deskipsi3"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Nasi + ayam + minuman"
+            app:layout_constraintBottom_toBottomOf="@+id/menu3"
+            app:layout_constraintStart_toEndOf="@+id/menu3"
+            app:layout_constraintTop_toBottomOf="@+id/namamenu3" />
+
+        <TextView
+            android:id="@+id/qty3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="0"
+            app:layout_constraintEnd_toEndOf="@+id/harga3"
+            app:layout_constraintHorizontal_bias="0.511"
+            app:layout_constraintStart_toStartOf="@+id/harga3"
+            app:layout_constraintTop_toBottomOf="@+id/harga3" />
+
+        <TextView
+            android:id="@+id/harga3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="140dp"
+            android:layout_marginBottom="20dp"
+            android:text="Rp 42,000"
+            app:layout_constraintBottom_toBottomOf="@+id/menu3"
+            app:layout_constraintStart_toEndOf="@+id/menu3"
+            app:layout_constraintTop_toTopOf="@+id/menu3" />
+
+        <ImageView
+            android:id="@+id/min3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:onClick="onMin3Clk"
+            app:layout_constraintBottom_toBottomOf="@+id/qty3"
+            app:layout_constraintEnd_toStartOf="@+id/qty3"
+            app:layout_constraintTop_toTopOf="@+id/qty3"
+            app:srcCompat="@drawable/ic_round_remove_circle_outline_24" />
+
+        <ImageButton
+            android:id="@+id/plus3"
+            android:layout_width="23dp"
+            android:layout_height="24dp"
+            android:layout_marginStart="10dp"
+            android:onClick="onPlus3Clk"
+            app:layout_constraintBottom_toBottomOf="@+id/qty3"
+            app:layout_constraintStart_toEndOf="@+id/qty3"
+            app:layout_constraintTop_toTopOf="@+id/qty3"
+            app:srcCompat="@drawable/ic_baseline_add_circle_outline_24" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <View
+        android:id="@+id/bottom_rect"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/border_2_grey_top"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/totalHarga"/>
+
+    <EditText
+        android:id="@+id/notes"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:hint="Notes"
+        app:layout_constraintBottom_toBottomOf="@id/button"
+        app:layout_constraintStart_toStartOf="@id/menu_container_3" />
+
+    <TextView
+        android:id="@+id/totalHarga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="10dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="Rp. 0"
+        app:layout_constraintBottom_toTopOf="@id/button"
+        app:layout_constraintEnd_toEndOf="@id/button" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
+        android:background="@color/black"
+        android:onClick="onBayarClk"
+        android:text="Bayar"
+        android:textColor="@android:color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
