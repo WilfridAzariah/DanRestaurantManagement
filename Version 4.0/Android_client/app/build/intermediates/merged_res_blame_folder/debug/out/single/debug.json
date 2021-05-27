@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-xxhdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo1.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_panasspesial.jpg.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\panasspesial.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_person_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-hdpi\\person_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-mdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_food_home_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-hdpi\\food_home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_food_home_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-xhdpi\\food_home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_border_button_background.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\rounded_border_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_panas1.jpg.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\panas1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_launcher.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_border_home.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\rounded_border_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_food_home_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-mdpi\\food_home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_round_remove_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\ic_round_remove_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_border_white.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\rounded_border_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo4.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\logo4.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_2_grey_top.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\border_2_grey_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_food_home_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-xxhdpi\\food_home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo3.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_round_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\ic_round_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_person_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-xxhdpi\\person_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_min.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\min.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_border_button_background_red.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\rounded_border_button_background_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_white.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\card_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_konfirmasi_pembayaran.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\layout\\activity_konfirmasi_pembayaran.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\font_amaranth.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\font\\amaranth.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_person_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-xhdpi\\person_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_food_home_icon.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-anydpi\\food_home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_person_icon.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-anydpi\\person_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_panas2.jpg.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\panas2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-hdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_person_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-mdpi\\person_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_history.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\layout\\list_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_border.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\rounded_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_icon.png.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-xhdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_home.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable\\gradient_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lihat_history.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\layout\\activity_lihat_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_back_icon.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\drawable-anydpi\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pesan.xml.flat",
+        "source": "C:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\src\\main\\res\\layout\\activity_pesan.xml"
+    }
+]

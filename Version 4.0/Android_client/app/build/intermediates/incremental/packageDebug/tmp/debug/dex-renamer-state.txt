@@ -1,0 +1,7 @@
+#Sat May 08 21:41:46 ICT 2021
+base.0=C\:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\johannesfelix\\OneDrive - Institut Teknologi Bandung\\Semester 8\\EL4236 Perancangan Perangkat Lunak Jaringan\\TugasBesar\\3.0\\Android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

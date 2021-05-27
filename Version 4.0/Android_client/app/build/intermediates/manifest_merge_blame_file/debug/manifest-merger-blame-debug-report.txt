@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.cobapplj"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+13-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+14-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:8:5-80
+14-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:9:5-81
+15-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:10:5-80
+16-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:10:22-77
+17
+18    <application
+18-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:12:5-52:19
+19        android:allowBackup="true"
+19-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:13:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.3.1] C:\Users\johannesfelix\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:14:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:15:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:16:9-54
+25        android:supportsRtl="true"
+25-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:17:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.CobaPPLJ" >
+27-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:18:9-46
+28        <activity
+28-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:19:9-26:20
+29            android:name="com.example.cobapplj.LauncherActivity"
+29-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:19:19-51
+30            android:theme="@style/AppTheme.NoActionBar" >
+30-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:20:13-56
+31            <intent-filter>
+31-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:21:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:22:17-69
+32-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:24:17-77
+34-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:27:9-29:59
+38            android:name="com.example.cobapplj.RegisterActivity"
+38-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:28:13-45
+39            android:theme="@style/AppTheme.NoActionBar" />
+39-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:29:13-56
+40        <activity
+40-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:30:9-33:20
+41            android:name="com.example.cobapplj.LoginActivity"
+41-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:31:13-42
+42            android:theme="@style/AppTheme.NoActionBar" >
+42-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:32:13-56
+43        </activity>
+44        <activity
+44-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:34:9-36:59
+45            android:name="com.example.cobapplj.KonfirmasiPembayaran"
+45-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:35:13-49
+46            android:theme="@style/AppTheme.NoActionBar" />
+46-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:36:13-56
+47        <activity
+47-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:37:9-39:59
+48            android:name="com.example.cobapplj.HomeActivity"
+48-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:38:13-41
+49            android:theme="@style/AppTheme.NoActionBar" />
+49-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:39:13-56
+50        <activity
+50-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:40:9-42:59
+51            android:name="com.example.cobapplj.PesanActivity"
+51-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:41:13-42
+52            android:theme="@style/AppTheme.NoActionBar" />
+52-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:42:13-56
+53        <activity
+53-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:43:9-45:59
+54            android:name="com.example.cobapplj.LihatHistory"
+54-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:44:13-41
+55            android:theme="@style/AppTheme.NoActionBar" />
+55-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:45:13-56
+56
+57        <service
+57-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:47:9-75
+58            android:name="com.example.cobapplj.UpdateService"
+58-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:47:18-47
+59            android:exported="false" />
+59-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:47:48-72
+60
+61        <receiver
+61-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:48:9-78
+62            android:name="com.example.cobapplj.UpdateReceiver"
+62-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:48:19-49
+63            android:process=":remote" />
+63-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:48:50-75
+64
+65        <meta-data
+65-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:49:9-51:57
+66            android:name="preloaded_fonts"
+66-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:50:13-43
+67            android:resource="@array/preloaded_fonts" />
+67-->C:\Users\johannesfelix\OneDrive - Institut Teknologi Bandung\Semester 8\EL4236 Perancangan Perangkat Lunak Jaringan\TugasBesar\3.0\Android\app\src\main\AndroidManifest.xml:51:13-54
+68    </application>
+69
+70</manifest>
